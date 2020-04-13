@@ -1,1 +1,1 @@
-In this repository, I will create and share all the projects I have done with R.
+In this repository, I will showcase my work using R studio to do various Machine Learning and Deep Learning Algorithms. 
